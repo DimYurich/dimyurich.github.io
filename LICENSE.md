@@ -1,4 +1,4 @@
-# LICENSE
+# Codinfox-lanyon License
 
 Copyright (c) 2016 Codinfox.
 
