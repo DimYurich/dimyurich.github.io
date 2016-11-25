@@ -1,2 +1,2 @@
-* wider blog posts
-* use fonts and colors from sotnikdv.github.io
+* use fonts from sotnikdv.github.io
+* use colors from sotnikdv.github.io

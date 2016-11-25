@@ -1,6 +1,6 @@
 # Site Info
 title: 'Software Shit Shark notes'
-tagline: 'Notes on Java / JVM, IR, ML, and maintenance of legacy systems'
+tagline: '@DimYurich on Java / JVM, IR, ML, and maintenance of legacy systems'
 #tagline: 'All opinions expressed here are of my own, not of my employer(s)'
 description: 'Notes on Search and legacy systems. How to maintain them, make them better, pull them out of misery and oblivion'
 url: http://dimyurich.github.io
@@ -11,7 +11,7 @@ gems:
 markdown: kramdown
 kramdown:
   input: GFM
-excerpt_separator: "<!-- more -->"
+excerpt_separator: <!--more-->
 sass:
   style: compressed
   sass_dir: _scss
