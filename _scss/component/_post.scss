@@ -9,9 +9,9 @@
     font-size: .8rem;
 
     h1 { font-size: 1.6rem; }
-    h2 { 
+    h2 {
       margin: 2em 0 1em 0;
-      font-size: 1.0rem; 
+      font-size: 1.0rem;
     }
     h3, h4, h5, h6 {
       margin: 2em 0 1em 0;
@@ -40,7 +40,11 @@
   }
 
   article {
-    line-height: 1.4rem;
+    line-height: 1.7em;
+    letter-spacing: 0.01rem;
+    font-size: 0.9em;
+    color: $text-color;
+    // font-weight: normal;
   }
 }
 
@@ -68,4 +72,3 @@
 .related-posts li a:hover small {
   color: inherit;
 }
-
