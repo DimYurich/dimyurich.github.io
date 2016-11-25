@@ -1,4 +1,7 @@
-* use fonts from sotnikdv.github.io
-* use colors from sotnikdv.github.io
-* fix About page
-* Write Mission Statement post
+MEMO:
+
+post example
+
+layout: post
+title: What's Jekyll?
+tags: [tag1, tag2]

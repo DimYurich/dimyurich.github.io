@@ -5,5 +5,13 @@
     margin-top: 0;
     text-transform: uppercase;
   }
-}
 
+  p {
+    line-height: 1.7em;
+    letter-spacing: 0.01rem;
+    font-size: 0.9em;
+    color: $text-color;
+    text-align: justify;
+    // font-weight: normal;
+  }
+}

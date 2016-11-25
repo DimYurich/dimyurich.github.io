@@ -4,7 +4,7 @@ tagline: '@DimYurich on Java / JVM, IR, ML, and maintenance of legacy systems'
 #tagline: 'All opinions expressed here are of my own, not of my employer(s)'
 description: 'Notes on Search and legacy systems. How to maintain them, make them better, pull them out of misery and oblivion'
 url: http://dimyurich.github.io
-
+logo: public/favicon.ico
 # Site configurations
 gems:
   - jekyll-paginate
@@ -30,6 +30,7 @@ author:
     linkedin:  https://www.linkedin.com/in/dterentyev
     github:    https://github.com/dimyurich
     twitter:   https://twitter.com/dimyurich
+    instagram: https://www.instagram.com/dimyurich
 
 # Navigation (2nd level links supported)
 nav:
