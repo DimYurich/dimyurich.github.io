@@ -48,5 +48,5 @@ tag_page: '/tags/'
 
 # Puglins
 mathjax: true # whether support mathjax
-google_analytics_token: 'UA-87981352-1' # leave blank if you don't want google analytics
+google_analytics_token: 'UA-102902604-1' # leave blank if you don't want google analytics
 disqus_short_name: 'dimyurich' # leave blank if you don't want disqus
