@@ -1,3 +1,4 @@
+<details><summary><summary/>
 image1
 skinparam componentStyle uml2;
 folder "Docker Runtime" {
@@ -19,3 +20,4 @@ folder "Local Logging docker-compose" {
   [Kibana] -down-> [ES index] : step 6;
 };
 image1
+<details>
